@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\MSMQEx\Requestor\Requestor\bin\Debug\Requestor.exe.config
+E:\Visual Studio Projects\MSMQEx\Requestor\Requestor\bin\Debug\Requestor.exe
+E:\Visual Studio Projects\MSMQEx\Requestor\Requestor\bin\Debug\Requestor.pdb
+E:\Visual Studio Projects\MSMQEx\Requestor\Requestor\obj\Debug\Requestor.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\MSMQEx\Requestor\Requestor\obj\Debug\Requestor.exe
+E:\Visual Studio Projects\MSMQEx\Requestor\Requestor\obj\Debug\Requestor.pdb

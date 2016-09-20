@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\MSMQEx\Replier\Replier\bin\Debug\Replier.exe.config
+E:\Visual Studio Projects\MSMQEx\Replier\Replier\obj\Debug\Replier.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\MSMQEx\Replier\Replier\bin\Debug\Replier.exe
+E:\Visual Studio Projects\MSMQEx\Replier\Replier\bin\Debug\Replier.pdb
+E:\Visual Studio Projects\MSMQEx\Replier\Replier\obj\Debug\Replier.exe
+E:\Visual Studio Projects\MSMQEx\Replier\Replier\obj\Debug\Replier.pdb
